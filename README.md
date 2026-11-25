@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/Umxr357"><img src="https://img.shields.io/badge/GitHub-Umxr357-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub: Umxr357" /></a>
+  <a href="https://leetcode.com/u/khanumar8369/"><img src="https://img.shields.io/badge/LeetCode-khanumar8369-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode: khanumar8369" /></a>
+  <a href="https://www.codechef.com/users/cse21_334"><img src="https://img.shields.io/badge/CodeChef-cse21__334-5B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" alt="CodeChef: cse21_334" /></a>
   <a href="https://github.com/Umxr357?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-7AA2F7?style=for-the-badge" alt="Explore my public projects" /></a>
 </p>
 
@@ -74,7 +76,28 @@ An Amazon-inspired storefront interface built with **HTML and CSS**, featuring n
 
 ---
 
-## 🧠 Learning & Coursework
+## 🧠 Problem Solving
+
+**547 problems solved across LeetCode and CodeChef.**
+
+| Platform | Problems solved | Breakdown |
+| --- | ---: | --- |
+| [LeetCode · khanumar8369](https://leetcode.com/u/khanumar8369/) | **98** | 73 Easy · 24 Medium · 1 Hard |
+| [CodeChef · cse21_334](https://www.codechef.com/users/cse21_334) | **449** | CodeChef's displayed total |
+
+<sub>Counts verified on 26 November 2026. The combined total is the sum of the two platform counts.</sub>
+
+<p align="center">
+  <a href="https://leetcode.com/u/khanumar8369/">
+    <img src="https://leetcard.jacoblin.cool/khanumar8369?theme=dark&amp;font=Baloo_2&amp;border=0&amp;radius=8&amp;animation=false" alt="Live LeetCode statistics for khanumar8369" width="500" />
+  </a>
+</p>
+
+<p align="center"><sub>Live LeetCode card provided by <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">LeetCode Stats Card</a>.</sub></p>
+
+---
+
+## 📚 Learning & Coursework
 
 Alongside my projects, I use coursework repositories to practise web layouts and implementation fundamentals.
 
